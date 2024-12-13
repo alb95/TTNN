@@ -1,6 +1,5 @@
-load('6D_Hilbert.mat')
-
 n = 20;
+H = create_hilbert_tensor(n, 6);
 l = 3;
 numit = 13;
 errB = zeros(1,numit-1);
