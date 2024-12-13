@@ -1,4 +1,4 @@
-## TTNN 
+# TTNN 
 ## Algorithm for the low-rank approximation of a tensor in the Tree Tensor Network format
 
 Package with the codes used for the experiment of the paper:
